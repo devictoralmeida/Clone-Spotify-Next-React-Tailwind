@@ -1,1 +1,7 @@
-# Clone-Spotify-Next-React-Tailwind
+Clone-Spotify
+
+Tecnologias:
+Next.js
+ReactJS
+Tailwind.css
+
